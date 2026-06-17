@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+mysql-connector-python
+psycopg2-binary
+SQLAlchemy
